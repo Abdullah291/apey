@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808134676873",
+    "project_id": "apey-8d0ea",
+    "storage_bucket": "apey-8d0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808134676873:android:d5e02fa4dae32f5bfb1158",
+        "android_client_info": {
+          "package_name": "com.example.apey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808134676873-csrqul064hbge6scf086mq04ktrbu6v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKi7Y9uAspSHgkXzwVyBbbJrV7lgvbL9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808134676873-csrqul064hbge6scf086mq04ktrbu6v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
